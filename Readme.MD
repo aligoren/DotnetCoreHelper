@@ -1,4 +1,4 @@
-#DotNet Core Controller Helper
+# DotNet Core Controller Helper
 
 I created this bash file to create controllers and methods via command line.
 
